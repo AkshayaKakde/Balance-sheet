@@ -17,7 +17,7 @@ if response.status_code == 200:
         rows = table.find_all('tr')
         
         # Open a CSV file to write the table data
-        with open('financial_data.csv', 'w', newline='') as file:
+        with open('Reliance_financial_data.csv', 'w', newline='') as file:
             writer = csv.writer(file)
             
             for row in rows:
