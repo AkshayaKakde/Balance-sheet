@@ -7,18 +7,12 @@ Welcome to the Reliance Industries Financial Data repository. This repository co
 **This repository includes the following key sections:**
 
 * Balance Sheets
-
-+ Equities and Liabilities
-
-Non-Current Liabilities
-
-Current Liabilities
-
-Non-Current Assets
-
-Current Assets
-
-Additional Information
+* Equities and Liabilities
+* Non-Current Liabilities
+* Current Liabilities
+* Non-Current Assets
+* Current Assets
+* Additional Information
 
 ## Reliance Industries Financial Data
 
