@@ -1,15 +1,14 @@
-# Balance-sheet
+# Reliance Industries Financial Data Repository
 
-Reliance Industries Financial Data Repository
 Welcome to the Reliance Industries Financial Data repository. This repository contains detailed financial information for Reliance Industries over the past five years, as extracted from the provided financial statements. Below is a summary of the data contained within this repository.
 
 ## Overview
 
 **This repository includes the following key sections:**
 
-Balance Sheets
+* Balance Sheets
 
-Equities and Liabilities
++ Equities and Liabilities
 
 Non-Current Liabilities
 
